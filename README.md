@@ -16,6 +16,8 @@ Recursos de cursado de la materia (2025)
   - [Guía 4](https://github.com/Lucasa98/PDS-2025/tree/main/Practica/Guia4)
   - [Guía 5](https://github.com/Lucasa98/PDS-2025/tree/main/Practica/Guia5)
 
+[Aca](https://github.com/Lucasa98/PDS-2025/blob/main/Practica/Guia5/filtros.ipynb) se explica cómo se construye un filtro FIR.
+
 ## Usar Jupyter Notebooks
 
 Las Jupyter Notebooks usadas para las guías prácticas pueden usarse desde Visual Studio Code con la [extensión oficial](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
